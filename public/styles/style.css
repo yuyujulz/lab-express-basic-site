@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Work+Sans:wght@300;400;600&display=swap');
+
+body{ 
+    background-color: black;
+    color: rgb(251, 241, 228);   
+    font-family: 'Work Sans', sans-serif
+}
+
+h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: rgb(244, 9, 1);
+    font-size: 5em;
+}
+
+
+
+.home-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+}
+
+.buttons button {
+    padding: 15px 25px;
+    margin: 10px;
+    color: rgb(251, 241, 228);
+    background-color: rgb(244, 9, 1);
+    /* border: 2px solid rgb(251, 241, 228); */
+    border: none;
+    font-family: 'Gloria Hallelujah', cursive;
+    width: 226px;
+}
+
+.buttons a {
+    text-decoration: none;
+    font-size: 2em;
+    color: rgb(251, 241, 228)
+}
+
+#gorillaz-logo {
+    width: 50%;
+}
+
+#about-page {
+    /* background-color: rgb(8, 6, 9); */
+}
+
+#about-img {
+    width: 70%;
+}

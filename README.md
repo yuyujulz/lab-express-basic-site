@@ -44,3 +44,12 @@ You should go through the following steps:
 6. Polish your HTML, stylesheets and scripts.
 
 Happy coding! 💙
+
+## Image Sources
+
+[background](https://www.wallpaperflare.com/gorillaz-2-d-murdoc-noodle-russel-trip-rock-jamie-hewlett-wallpaper-capar)
+[pink background](https://www.wallpaperflare.com/gorillaz-2-d-murdoc-noodle-russel-trip-rock-jamie-hewlett-wallpaper-capar)
+[about](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fblack-gorillaz-mobile-in-line-tiflk0v1eyykzfs1.jpg&imgrefurl=https%3A%2F%2Fwallpapers.com%2Fgorillaz&tbnid=moClKcc-CbPwJM&vet=10CAwQxiAoAWoXChMI-Pa9p_3q-wIVAAAAAB0AAAAAEAY..i&docid=qdKRfNVfeXiViM&w=1080&h=1920&itg=1&q=gorillaz&hl=en&ved=0CAwQxiAoAWoXChMI-Pa9p_3q-wIVAAAAAB0AAAAAEAY)
+[logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F5e%2F59%2F4c%2F5e594c4d17e90ed2149d38a1cebecc27.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F727261039809962958%2F&tbnid=t6hIxBf1oR5IhM&vet=12ahUKEwj4qefS_er7AhVr_rsIHRqRA8MQMygCegUIARDeAQ..i&docid=0qRXfZwfuCOg5M&w=712&h=712&q=gorillaz%20logo&hl=en&ved=2ahUKEwj4qefS_er7AhVr_rsIHRqRA8MQMygCegUIARDeAQ)
+[music](https://www.itl.cat/pngfile/big/9-96759_gorillaz-wallpapers.jpg)
+[about-2](https://www.nme.com/wp-content/uploads/2016/09/GorillazPR191110.jpg)
