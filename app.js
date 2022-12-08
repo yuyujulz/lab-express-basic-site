@@ -6,7 +6,7 @@ app.use(express.static('public'))
 
 app.get('/home', (request,response) =>  { 
     response.sendFile(__dirname + '/views/home.html')
-    
+
 })
 
-app.listen(3003, () => console.log('connected'))
+app.listen(3004, () => console.log('connected'))
