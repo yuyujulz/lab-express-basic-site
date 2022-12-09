@@ -53,3 +53,8 @@ Happy coding! 💙
 [logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F5e%2F59%2F4c%2F5e594c4d17e90ed2149d38a1cebecc27.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F727261039809962958%2F&tbnid=t6hIxBf1oR5IhM&vet=12ahUKEwj4qefS_er7AhVr_rsIHRqRA8MQMygCegUIARDeAQ..i&docid=0qRXfZwfuCOg5M&w=712&h=712&q=gorillaz%20logo&hl=en&ved=2ahUKEwj4qefS_er7AhVr_rsIHRqRA8MQMygCegUIARDeAQ)
 [music](https://www.itl.cat/pngfile/big/9-96759_gorillaz-wallpapers.jpg)
 [about-2](https://www.nme.com/wp-content/uploads/2016/09/GorillazPR191110.jpg)
+
+## Fact Sources
+
+[About the Band](https://www.uselessdaily.com/world/gorillaz-interesting-facts-about-the-band/)
+[Top Hits](https://www.thetoptens.com/music/best-gorillaz-songs/)
