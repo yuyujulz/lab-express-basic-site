@@ -52,10 +52,6 @@ button:hover {
     width: 50%;
 }
 
-#about-img {
-    width: 70%;
-}
-
 #top-five {
     display: flex;
     justify-content: center;
@@ -90,3 +86,31 @@ button:hover {
     display: flex;
     justify-content: center;
 }
+
+#about-page {
+    background-image: url("../images/gorilla-about-2.jpeg");
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-position: bottom;
+    position: relative;
+    
+    
+}
+.about-info  p, span {
+    width: 40%;
+    text-align: left;
+    margin-right: 5%;
+    float: right;
+
+
+}
+
+.about-info span a {
+    /* text-decoration: none; */
+    color: rgb(244, 9, 1);
+    float: right;
+}
+/* .about-div {
+    display: flex;
+    justify-content: space-evenly;
+} */
