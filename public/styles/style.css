@@ -19,12 +19,12 @@ h1 {
     flex-direction: column;
 }
 
-.buttons {
+.btns {
     display: flex;
     flex-direction: row;
 }
 
-.buttons button {
+.btns button {
     padding: 15px 25px;
     margin: 10px;
     color: rgb(244, 9, 1);
@@ -36,7 +36,7 @@ h1 {
     cursor: pointer;
 }
 
-.buttons a {
+.btns a {
     text-decoration: none;
     font-size: 2em;
     color: rgb(244, 9, 1);
@@ -85,32 +85,30 @@ button:hover {
 .music-page {
     display: flex;
     justify-content: center;
+    
 }
 
 #about-page {
-    background-image: url("../images/gorilla-about-2.jpeg");
-    background-repeat: no-repeat;
-    /* background-size: cover; */
-    background-position: bottom;
-    position: relative;
-    
-    
-}
-.about-info  p, span {
-    width: 40%;
-    text-align: left;
-    margin-right: 5%;
-    float: right;
-
-
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        margin: auto;
+        width: 50%;
 }
 
 .about-info span a {
     /* text-decoration: none; */
     color: rgb(244, 9, 1);
-    float: right;
+    /* float: right; */
+    align-items: center;
 }
-/* .about-div {
-    display: flex;
-    justify-content: space-evenly;
-} */
+
+.about-btns button {
+    margin: auto;
+}
+
+#about-btns {
+    margin-top: 70px;
+}
